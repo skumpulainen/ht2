@@ -8,7 +8,7 @@ kanssa tai hän ei ole antanut tiedoston nimeä, saa hän virheilmoituksen.
 # Examples:
 
 
--------------------
+```-------------------
 | A S C I I A r t |
 -------------------
 printa/printi/info/filter [n]/reset/quit?
@@ -29,7 +29,7 @@ printa
 ################
        ##
 ::::::::::::::::
-printa/printi/info/filter [n]/reset/quit?
+printa/printi/info/filter [n]/reset/quit?```
 
 printi
  6 15 15 15 15  6 15 15  0 15 15 15 15 15 15  6
